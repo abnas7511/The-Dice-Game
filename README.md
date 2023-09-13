@@ -6,7 +6,6 @@ This is a simple JavaScript-based dice game for two players. In this game, You c
 
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-- [License](#license)
 
 ## Getting Started
 
@@ -27,4 +26,7 @@ To get started with this game, follow these instructions:
 3. The player with the higher number wins. If both players roll the same number, it's a draw.
 
 4. The result of the game will be displayed at the top of the screen in the form of a message, such as "🚩Player 1 Wins," "🚩Player 2 Wins," or "Draw!"
+
+
+This is made as a part of my full stack web developer journey by accessing Angela yu's course in Udemy
 
